@@ -1,6 +1,4 @@
 import os #line:1
-os .system ('cmd /k "pip install tkinter"')#line:2
-os .system ('cmd /k "pip install datetime"')#line:3
 import tkinter as tk #line:4
 from tkinter import messagebox #line:5
 from tkinter import ttk #line:6
